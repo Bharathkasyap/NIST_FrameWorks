@@ -59,7 +59,9 @@
 
 ## 🔬 Detailed Breakdown of Each NIST Framework
 
-### 1. NIST SP 800-61 – *Computer Security Incident Handling Guide*
+> 📎 **Click the titles below to open official NIST documentation for each framework.**
+
+### 1. [NIST SP 800-61 – *Computer Security Incident Handling Guide*](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) – *Computer Security Incident Handling Guide*
 
 | Section            | Key Concepts                                                                 |
 |--------------------|------------------------------------------------------------------------------|
@@ -73,7 +75,7 @@
 
 ---
 
-### 2. NIST SP 800-53 – *Security and Privacy Controls*
+### 2. [NIST SP 800-53 – *Security and Privacy Controls*](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) – *Security and Privacy Controls*
 
 | Family         | Example Controls           | Purpose                                        |
 |----------------|----------------------------|------------------------------------------------|
@@ -86,7 +88,7 @@
 
 ---
 
-### 3. NIST SP 800-171 – *Protecting Controlled Unclassified Information (CUI)*
+### 3. [NIST SP 800-171 – *Protecting Controlled Unclassified Information (CUI)*](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) – *Protecting Controlled Unclassified Information (CUI)*
 
 | Control Family        | Use Case for SOC Analysts                                |
 |-----------------------|----------------------------------------------------------|
@@ -97,7 +99,7 @@
 
 ---
 
-### 4. NIST Cybersecurity Framework (CSF)
+### 4. [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework)
 
 | Function     | Description                                                   |
 |--------------|---------------------------------------------------------------|
@@ -111,7 +113,7 @@
 
 ---
 
-### 5. NIST SP 800-115 – *Technical Guide to Information Security Testing*
+### 5. [NIST SP 800-115 – *Technical Guide to Information Security Testing*](https://csrc.nist.gov/publications/detail/sp/800-115/final) – *Technical Guide to Information Security Testing*
 
 - Covers **vulnerability scanning**, **red teaming**, **log review**, and **penetration testing**
 - Helps define testing methodologies for internal audits
@@ -119,7 +121,7 @@
 
 ---
 
-### 6. NIST SP 800-137 – *Information Security Continuous Monitoring (ISCM)*
+### 6. [NIST SP 800-137 – *Information Security Continuous Monitoring (ISCM)*](https://csrc.nist.gov/publications/detail/sp/800-137/final) – *Information Security Continuous Monitoring (ISCM)*
 
 - Explains how to **automate alerting, tuning SIEM**, and reduce false positives
 - Used to build **dashboards and SOC metrics**
@@ -127,7 +129,7 @@
 
 ---
 
-### 7. NIST SP 800-30 – *Guide for Conducting Risk Assessments*
+### 7. [NIST SP 800-30 – *Guide for Conducting Risk Assessments*](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) – *Guide for Conducting Risk Assessments*
 
 | Phase         | SOC Application                                |
 |---------------|-------------------------------------------------|
@@ -137,7 +139,7 @@
 
 ---
 
-### 8. NIST SP 800-92 – *Guide to Computer Security Log Management*
+### 8. [NIST SP 800-92 – *Guide to Computer Security Log Management*](https://csrc.nist.gov/publications/detail/sp/800-92/final) – *Guide to Computer Security Log Management*
 
 | Focus Area        | Importance for SOC                                   |
 |-------------------|-------------------------------------------------------|
